@@ -1,2 +1,2 @@
-# imageprocessingPIL
-Project for internship
+print("Hello World")
+
